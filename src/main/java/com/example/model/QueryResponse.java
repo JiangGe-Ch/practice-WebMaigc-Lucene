@@ -1,8 +1,7 @@
 package com.example.model;
 
 /**
- * Rest风格的知识库查询接口响应对象
- * @author chenruoyu
+ * 查询接口响应对象
  */
 public class QueryResponse<T> {
 
